@@ -10,14 +10,13 @@ const setupApiSockJs = require('./lib/setupApiSockJs.js')
 const setupApiWs = require('./lib/setupApiWs.js')
 const setupDbServer = require('./lib/setupDbServer.js')
 
-
 module.exports = {
 
   Renderer,
   Services,
   SsrServer,
   TestServer,
-  
+
   createLoopbackDao,
   renderTemplate,
   setupApiServer,
