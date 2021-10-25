@@ -9,6 +9,8 @@ const setupApiServer = require('./lib/setupApiServer.js')
 const setupApiSockJs = require('./lib/setupApiSockJs.js')
 const setupApiWs = require('./lib/setupApiWs.js')
 const setupDbServer = require('./lib/setupDbServer.js')
+const setupDbClient = require('./lib/setupDbClient.js')
+const setupApp = require('./lib/setupApp.js')
 
 module.exports = {
 
@@ -22,6 +24,8 @@ module.exports = {
   setupApiServer,
   setupApiSockJs,
   setupApiWs,
-  setupDbServer
+  setupDbServer,
+  setupDbClient,
+  setupApp
 
 }
