@@ -23,7 +23,7 @@
   "dependencies": {
     "@live-change/dao": "^0.3.12",
     "@live-change/dao-sockjs": "^0.2.1",
-    "@live-change/db-server": "^0.4.82",
+    "@live-change/db-server": "^0.5.3",
     "@live-change/framework": "^0.5.10",
     "@live-change/vue3-ssr": "^0.1.7",
     "@live-change/uid": "^0.1.4",
