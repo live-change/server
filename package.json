@@ -36,6 +36,7 @@
     "@live-change/sockjs": "^0.4.0-rc.1",
     "websocket": "^1.0.34",
     "yargs": "^17.3.0",
-    "express-static-gzip": "2.1.1"
+    "express-static-gzip": "2.1.1",
+    "sitemap": "^6.3.6"
   }
 }
